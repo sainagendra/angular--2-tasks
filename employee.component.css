@@ -1,0 +1,7 @@
+table{
+    font-family: cursive;font-size: large; border-collapse: collapse; color: red;
+}
+td
+{ 
+    border: 2px solid black;
+}
